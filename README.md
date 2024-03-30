@@ -11,4 +11,6 @@ pip install nltk
 Python3<br />
 Anaconda
 
-## Auxiliar
+## Dataset
+
+Twitter Sentiment Analysis - `https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis`
